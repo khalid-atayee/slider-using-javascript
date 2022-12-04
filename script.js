@@ -78,4 +78,5 @@ slideSelectedHole = (counter)=>{
 
     slidesHoles =slides[counter].children[1].children[3];
     slidesHoles.children[counter].classList.add('active')
+    
 }

@@ -34,7 +34,7 @@ $ratingCount = 5;
                 $count=0;
                 
                 ?>
-                <div class="slider-content" data-id="<?=$key ?>">
+                <div class="slider-content">
                    
                     <img src="images/<?= $result['slider_image']?>" alt="">
                     <div class="slider-text">

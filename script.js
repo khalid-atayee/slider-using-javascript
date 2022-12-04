@@ -80,3 +80,16 @@ slideSelectedHole = (counter)=>{
     slidesHoles.children[counter].classList.add('active')
     
 }
+
+// window.onload=()=>{
+//     setInterval(()=>{
+//         counter++
+//         if(counter==slides.length){
+//             counter=0;   
+//         }
+//         slideImage()
+//         slideSelectedHole(counter)
+
+//     },5000)
+
+// }
